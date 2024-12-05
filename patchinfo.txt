@@ -1,13 +1,13 @@
-DataTable\Character.edf df90c38b155b2abd725bea8301fda63582c526e9
+DataTable\Character.edf 5003b858d32929326cbb00580a5227db3e9e46f8
 DataTable\Csxx.txt 31d212b87b2ebe5a1427b7ccb0e37c74b2451a9e
 DataTable\desktop.ini 87129bb96fa8ae93205e9c52d8f592e8c0891226
 DataTable\en-ph\desktop.ini 87129bb96fa8ae93205e9c52d8f592e8c0891226
 DataTable\en-ph\Exp.edf 86a8a3ffe06fa3f1d5203b5fec098a7d8886ec70
 DataTable\en-ph\GameData.edf 7d2ef0c06489bfe5d511610ec7d469882c98e1fd
 DataTable\en-ph\Hint.edf 74819598b41b3e0e897b439d06d30e00ab8bb4d8
-DataTable\en-ph\NDCharacter.edf 40234afa36652b80342dd73df14be60b1e93812f
+DataTable\en-ph\NDCharacter.edf 2702b6f933c79a9f7177ccf611824d619cc999c3
 DataTable\en-ph\NDEventShip.edf 314f35f3610fb06bb36bf01626bca8da2a3a3fc5
-DataTable\en-ph\NDItem.edf 813eaef32f25e0f65b09ab21ff8a1123c526d5a8
+DataTable\en-ph\NDItem.edf b5f4622ea0d78b59a7668b82369b96e22927d3fd
 DataTable\en-ph\NDItemCash.edf 9c2bb0d38c5318b46a2a6207f0a15846b210b099
 DataTable\en-ph\NDLanguage.edf 32533834653b3ee94eebaf37c3bfd4c6d77fccbf
 DataTable\en-ph\NDMap.edf 0cc0cd3e49292f8ba8bfe032a4c922bbc47be0c8
@@ -22,7 +22,7 @@ DataTable\en-ph\ui.lang f93c37b8bffc34b5d9c386199e7add604b18d923
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\EventShip.edf e3ac219e9aa21238c9e28b8f5d33244ed4315ab3
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 9d9e3f5af8a8c5cd33aa1d16da8056b488e96f8b
+DataTable\Item.edf 01bdeace14c80c311d524e6ef4fd594c6af56177
 DataTable\ItemArmor.edf 43f7a9633e8dacfff3c37f723cf52793e0b5be90
 DataTable\ItemCash.edf 9454cbb3f2ae6e9a19f9df26f8cdd9a6f3bb01ae
 DataTable\ItemCombine.edf 0f66c482d2f6a80fad757dcdb1ac347653e32dbd
