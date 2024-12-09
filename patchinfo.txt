@@ -7,7 +7,7 @@ DataTable\en-ph\GameData.edf 7d2ef0c06489bfe5d511610ec7d469882c98e1fd
 DataTable\en-ph\Hint.edf 74819598b41b3e0e897b439d06d30e00ab8bb4d8
 DataTable\en-ph\NDCharacter.edf 2702b6f933c79a9f7177ccf611824d619cc999c3
 DataTable\en-ph\NDEventShip.edf 314f35f3610fb06bb36bf01626bca8da2a3a3fc5
-DataTable\en-ph\NDItem.edf b7f2e02e29493b14e3d71628fa902c5a3f19dbab
+DataTable\en-ph\NDItem.edf cb243879e3604e71babe57872c158de7fd176227
 DataTable\en-ph\NDItemCash.edf 9c2bb0d38c5318b46a2a6207f0a15846b210b099
 DataTable\en-ph\NDLanguage.edf 32533834653b3ee94eebaf37c3bfd4c6d77fccbf
 DataTable\en-ph\NDMap.edf 0cc0cd3e49292f8ba8bfe032a4c922bbc47be0c8
@@ -15,14 +15,14 @@ DataTable\en-ph\NDMsgEvent.edf 8fdc4e84da09e8291f0ed98a8bde96dc783cbeaa
 DataTable\en-ph\NDMsgMonster.edf 8b03a29062e42c10e16b3c6a2f9210cff6ee93b7
 DataTable\en-ph\NDQuest.edf 4dfb88673e587b40d773739f4843dc7047b78d97
 DataTable\en-ph\NDSkillForce.edf 9623993ba0db696a2a3ee5f68496ca61ef0cab72
-DataTable\en-ph\NDStore.edf 9da0650b856b3712b16bfb0d661ba8512687a41e
+DataTable\en-ph\NDStore.edf 9e13ad7e219b317f53d054ee20b92bade905c388
 DataTable\en-ph\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-ph\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-ph\ui.lang f93c37b8bffc34b5d9c386199e7add604b18d923
 DataTable\en-ph\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\EventShip.edf e3ac219e9aa21238c9e28b8f5d33244ed4315ab3
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 36f312806ed76ba1e39e3d98dddbb1d49235427e
+DataTable\Item.edf 012f45b7938d4cb8b28b3483c1b288a8cb2f5570
 DataTable\ItemArmor.edf 43f7a9633e8dacfff3c37f723cf52793e0b5be90
 DataTable\ItemCash.edf 9454cbb3f2ae6e9a19f9df26f8cdd9a6f3bb01ae
 DataTable\ItemCombine.edf 0f66c482d2f6a80fad757dcdb1ac347653e32dbd
@@ -36,4 +36,4 @@ DataTable\PlayerCharacter.edf 72c1732a780c9d786a8e5d54912e509e3e475c50
 DataTable\Quest.edf 10ee4f3c2e3cc5fc741f7f14132a42b4d7792945
 DataTable\Resource.edf 6eb3ef7211e9f5861f6ed01afe7903b6fcc106f3
 DataTable\SkillForce.edf a84ad43fb91258151d9cb615866fd5a8d13ad028
-DataTable\Store.edf 23843921c992ea43b5493337a69805a3d673f046
+DataTable\Store.edf 319e835c092f5594ba292d0295def142a585e89d
